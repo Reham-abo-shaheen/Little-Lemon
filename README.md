@@ -23,6 +23,8 @@ It was built to practice front-end development, UI/UX layout design, and compone
 ## 🖼️ Preview
 
 ![screenshot](assets/readme-image1.png)
+![screenshot](assets/readme-image2.png)
+
 
 ## 🌐 Live Demo
 
